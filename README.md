@@ -34,5 +34,4 @@ A fun, memory-based game built with *HTML, CSS, and JavaScript*. Watch the seque
 ## ⚙ How to Use
 
 1. Clone the repository:
-   ```bash
   https://simon-says-ggame.netlify.app/
