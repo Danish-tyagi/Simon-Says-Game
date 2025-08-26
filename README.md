@@ -35,4 +35,4 @@ A fun, memory-based game built with *HTML, CSS, and JavaScript*. Watch the seque
 
 1. Clone the repository:
    ```bash
-   git clone https://tooddoo-app.netlify.app/
+  https://simon-says-ggame.netlify.app/
