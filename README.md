@@ -30,3 +30,9 @@ A fun, memory-based game built with *HTML, CSS, and JavaScript*. Watch the seque
 - *JavaScript* – Game logic (sequence, user input, level handling)
 
 ---
+
+## ⚙ How to Use
+
+1. Clone the repository:
+   ```bash
+   git clone https://tooddoo-app.netlify.app/
