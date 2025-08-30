@@ -31,7 +31,7 @@ A fun, memory-based game built with *HTML, CSS, and JavaScript*. Watch the seque
 
 ---
 
-## ⚙ How to Use
+## ⚙ Live Link
 
-1. Clone the repository:
+1. Live link:
   https://simon-says-ggame.netlify.app/
